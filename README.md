@@ -1,6 +1,9 @@
-<!-- Typing SVG Header -->
+<!-- Typing SVG Header (Fixed & Centered) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=600&lines=Hey+there!+👋+I'm+Abhishek+Chowdhury;Full+Stack+Developer+%7C+AI+Enthusiast;I+build+beautiful+and+scalable+apps+🚀;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I%27m+Abhishek+Chowdhury;Full+Stack+Developer+%7C+AI+Enthusiast;I+build+beautiful+and+scalable+apps+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!"
+    alt="Typing Animation"
+  />
 </p>
 
 <!-- Profile Views & Badges -->
